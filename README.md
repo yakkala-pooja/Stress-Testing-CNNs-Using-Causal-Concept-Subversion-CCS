@@ -46,9 +46,9 @@ The **Conceptual Fragility Index (CFI)** is a novel metric proposed in this work
 
 CFI is computed as:
 
-\[
+$$
 CFI = \alpha \cdot \text{Prediction Entropy Change} + \beta \cdot \text{Semantic Drift (CLIP distance)}
-\]
+$$
 
 Where:
 - **Prediction Entropy Change** reflects uncertainty introduced by subversion.
