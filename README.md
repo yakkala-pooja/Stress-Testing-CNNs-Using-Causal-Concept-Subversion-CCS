@@ -63,7 +63,7 @@ The framework is evaluated on two datasets:
 ### 1. First In-Distribution Dataset (ID)
 Used for clean baseline evaluation and Grad-CAM region extraction.
 
-🔗 [**Kaggle Link** to Intel Image Dataset](https://www.kaggle.com/datasets/rahmasleam/intel-image-dataset) *(Replace with actual link)*
+🔗 [**Kaggle Link** to Intel Image Dataset](https://www.kaggle.com/datasets/rahmasleam/intel-image-dataset) 
 
 ### 2. Seconf In-Distribution Dataset (ID)
 Used for clean baseline evaluation and Grad-CAM region extraction.
@@ -161,7 +161,7 @@ If you find this project useful in your research, please consider citing:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork this repo, open issues, or submit PRs. Contributions are welcome!
 
