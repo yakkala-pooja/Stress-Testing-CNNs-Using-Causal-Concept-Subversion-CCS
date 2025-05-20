@@ -105,13 +105,8 @@ Place the downloaded datasets in the `data/` directory following the structure b
 ```
 data/
 ├── id_dataset/
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   └── ...
-└── ood_patches/
-    ├── patch1.jpg
-    ├── patch2.jpg
-    └── ...
+│   ├── ImageNet-256
+│   ├── Intel Image Dataset
 ```
 
 ---
