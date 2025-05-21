@@ -79,8 +79,8 @@ Each patch is chosen using LPIPS and CLIP to ensure **visual plausibility** and 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/CCS-Robustness.git
-cd CCS-Robustness
+git clone https://github.com/yakkala-pooja/Stress-Testing-CNNs-Using-Causal-Concept-Subversion-CCS.git
+cd Stress-Testing-CNNs-Using-Causal-Concept-Subversion-CCS
 ```
 
 ### 2. Install dependencies
